@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213456574103",
+    "project_id": "ccm-test-7112b",
+    "storage_bucket": "ccm-test-7112b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213456574103:android:131905d1153c6553fa7bd2",
+        "android_client_info": {
+          "package_name": "com.kapirti.pushnotificationtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213456574103-p9k37jgafrcc7gr4j587saclmmgi7ab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Mwtkt42En3L9Hr-WG9cEWBosa_hD3J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213456574103-p9k37jgafrcc7gr4j587saclmmgi7ab0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
